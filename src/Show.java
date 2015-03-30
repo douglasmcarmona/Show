@@ -1,6 +1,6 @@
 import java.io.*;
 
-class Players{
+class Player{
 	int id;
 	String Name;
 	int[] questions, answers;
@@ -26,7 +26,7 @@ class Players{
 	}
 }
 
-class Questions{
+class Question{
 	int id, answers;
 	String Questions, Answer1, Answer2, Answer3, Answer4;
 	void read() throws IOException {
