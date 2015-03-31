@@ -1,0 +1,38 @@
+ALGORITMO
+	escrever:
+
+	Arquivo com todos os pontos importantes do projeto
+	
+	CODIFICAÇÃO
+	- No projeto será utilizado o modelo MVC (Modelo, Visao e Controle), de modo a deixar o código mais organizado e o 				relacionamento entre as classes mais prático.
+	- Todas as variáveis deverão ser declaradas de acordo com a seguinte sintaxe: tttNomeDaVariavelEmCamelCase
+	ttt = prefixo de tres caracteres que identifica o tipo de dado, sendo:
+	
+	num - numeros (inteiros e de pontos flutuantes)
+	chr - caracteres (tipo char)
+	str - strings
+	bln - booleanos
+	obj - objetos de classes
+	
+	- Em todos os métodos, a primeira palavra deve iniciar com letra minúscula e a partir desse ponto, utilizar CamelCase
+	- A identação deve ser feita por tabulações (TAB) de tamanho 4 (usuários de JGrasp, configurem a IDE de vcs :) )
+	
+	DOCUMENTAÇÃO
+	- Classes e seus métodos deverão ser comentados seguindo o padrão Javadoc
+	- Todas as submissões devem ser feitas com o comentário indicando a mudança realizada(na tela de submissão, não no código		-fonte)
+	- DICA: sempre comente classes e/ou métodos utilizados que eram desconhecidos até então
+	
+	Lembrando sempre do óbvio: identação, variáveis de nome significativo, comentários, etc.
+	
+	Favor editar o arquivo se houver outra(s) consideração(ões) não citadas
+	
+	
+	"Teoria é quando um fenômeno é compreendido, mas não funciona; prática é quando funciona, mas não se sabe por quê.
+	Na computação coexistem teoria e prática: nada funciona e não se sabe por quê"
+
+FIM_ALGORITMO
+
+
+
+
+
